@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_main">Lucky Number</string>
+    <string name="title_activity_activity_result">Result</string>
+
+    <string name="life_1"> Leadership, individuality, aggression, self-confidence, originality, impatience.
+</string>
+    <string name="life_2"> Balance, partnership, receptivity, collaboration, diplomacy, patience.
+</string>
+    <string name="life_3"> Self-expression, innovation, creativity, communication, activity.
+</string>
+    <string name="life_4"> Stability, dependability, discipline, dedication, over-cautious, stubborn.
+</string>
+    <string name="life_5"> Progressive, pioneering, innovation, adventure, rebellion, opportunist.
+</string>
+    <string name="life_6"> Harmony, compassion, service, nurturing, self-righteous, chronic worrier.
+</string>
+    <string name="life_7"> Intelligence, intuition, spirituality, analytical, solitary, secretive.
+</string>
+    <string name="life_8"> Ambition, organization, practicality, successful, selfish, materialistic.
+</string>
+    <string name="life_9"> Generosity, passion, altruistic, resourceful, egotistical, fragile.
+</string>
+    <string name="life_11"> Visionary, idealistic, teacher, sensitive, a perfectionist, aloof.
+</string>
+    <string name="life_22"> Master builder, honest, practical, peaceful, extreme, manipulative.
+</string>
+</resources>
